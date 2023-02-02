@@ -1,135 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="FunctionSuite" duration-ms="36101" started-at="2023-02-02T17:53:27Z" finished-at="2023-02-02T17:54:03Z">
+  <suite name="FunctionSuite" duration-ms="34126" started-at="2023-02-02T18:01:51Z" finished-at="2023-02-02T18:02:25Z">
     <groups>
     </groups>
-    <test name="ResolverTest" duration-ms="36101" started-at="2023-02-02T17:53:27Z" finished-at="2023-02-02T17:54:03Z">
+    <test name="ResolverTest" duration-ms="34126" started-at="2023-02-02T18:01:51Z" finished-at="2023-02-02T18:02:25Z">
       <class name="resolverAssessment.TestCases.test1_page">
-        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test1_page@13defed]" name="setup" is-config="true" duration-ms="2383" started-at="2023-02-02T17:53:27Z" finished-at="2023-02-02T17:53:29Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test1_page@13defed]" name="setup" is-config="true" duration-ms="2877" started-at="2023-02-02T18:01:51Z" finished-at="2023-02-02T18:01:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:resolverAssessment.TestCases.test1_page@13defed]" name="test1" duration-ms="5916" started-at="2023-02-02T17:53:29Z" finished-at="2023-02-02T17:53:35Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:resolverAssessment.TestCases.test1_page@13defed]" name="test1" duration-ms="6029" started-at="2023-02-02T18:01:54Z" finished-at="2023-02-02T18:02:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test1_page@13defed]" name="teardown" is-config="true" duration-ms="728" started-at="2023-02-02T17:53:35Z" finished-at="2023-02-02T17:53:36Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test1_page@13defed]" name="teardown" is-config="true" duration-ms="783" started-at="2023-02-02T18:02:00Z" finished-at="2023-02-02T18:02:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- resolverAssessment.TestCases.test1_page -->
       <class name="resolverAssessment.TestCases.test6_page">
-        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test6_page@4bb45b]" name="setup" is-config="true" duration-ms="1884" started-at="2023-02-02T17:53:55Z" finished-at="2023-02-02T17:53:57Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test6_page@4bb45b]" name="setup" is-config="true" duration-ms="2242" started-at="2023-02-02T18:02:17Z" finished-at="2023-02-02T18:02:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test6()[pri:0, instance:resolverAssessment.TestCases.test6_page@4bb45b]" name="test6" duration-ms="5524" started-at="2023-02-02T17:53:57Z" finished-at="2023-02-02T17:54:02Z">
+        <test-method status="PASS" signature="test6()[pri:0, instance:resolverAssessment.TestCases.test6_page@4bb45b]" name="test6" duration-ms="5573" started-at="2023-02-02T18:02:19Z" finished-at="2023-02-02T18:02:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test6 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test6_page@4bb45b]" name="teardown" is-config="true" duration-ms="718" started-at="2023-02-02T17:54:02Z" finished-at="2023-02-02T17:54:03Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test6_page@4bb45b]" name="teardown" is-config="true" duration-ms="795" started-at="2023-02-02T18:02:24Z" finished-at="2023-02-02T18:02:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- resolverAssessment.TestCases.test6_page -->
       <class name="resolverAssessment.TestCases.test2_page">
-        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test2_page@693f59]" name="setup" is-config="true" duration-ms="1785" started-at="2023-02-02T17:53:36Z" finished-at="2023-02-02T17:53:38Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test2_page@693f59]" name="setup" is-config="true" duration-ms="2480" started-at="2023-02-02T18:02:01Z" finished-at="2023-02-02T18:02:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:resolverAssessment.TestCases.test2_page@693f59]" name="test2" duration-ms="368" started-at="2023-02-02T17:53:38Z" finished-at="2023-02-02T17:53:38Z">
+        <test-method status="PASS" signature="test2()[pri:0, instance:resolverAssessment.TestCases.test2_page@693f59]" name="test2" duration-ms="414" started-at="2023-02-02T18:02:03Z" finished-at="2023-02-02T18:02:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test2_page@693f59]" name="teardown" is-config="true" duration-ms="685" started-at="2023-02-02T17:53:38Z" finished-at="2023-02-02T17:53:39Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test2_page@693f59]" name="teardown" is-config="true" duration-ms="735" started-at="2023-02-02T18:02:04Z" finished-at="2023-02-02T18:02:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- resolverAssessment.TestCases.test2_page -->
       <class name="resolverAssessment.TestCases.test3_page">
-        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test3_page@14faf53]" name="setup" is-config="true" duration-ms="1956" started-at="2023-02-02T17:53:39Z" finished-at="2023-02-02T17:53:41Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test3_page@14faf53]" name="setup" is-config="true" duration-ms="2048" started-at="2023-02-02T18:02:05Z" finished-at="2023-02-02T18:02:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="test3()[pri:0, instance:resolverAssessment.TestCases.test3_page@14faf53]" name="test3" duration-ms="419" started-at="2023-02-02T17:53:41Z" finished-at="2023-02-02T17:53:41Z">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[ Selected option is not option 3 expected [Option 3] but found []]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError:  Selected option is not option 3 expected [Option 3] but found []
-at org.testng.Assert.fail(Assert.java:96)
-at org.testng.Assert.failNotEquals(Assert.java:776)
-at org.testng.Assert.assertEqualsImpl(Assert.java:137)
-at org.testng.Assert.assertEquals(Assert.java:118)
-at org.testng.Assert.assertEquals(Assert.java:453)
-at resolverAssessment.TestCases.test3_page.test3(test3_page.java:23)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.lang.reflect.Method.invoke(Method.java:498)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:resolverAssessment.TestCases.test3_page@14faf53]" name="test3" duration-ms="753" started-at="2023-02-02T18:02:07Z" finished-at="2023-02-02T18:02:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test3_page@14faf53]" name="teardown" is-config="true" duration-ms="684" started-at="2023-02-02T17:53:41Z" finished-at="2023-02-02T17:53:42Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test3_page@14faf53]" name="teardown" is-config="true" duration-ms="756" started-at="2023-02-02T18:02:07Z" finished-at="2023-02-02T18:02:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- resolverAssessment.TestCases.test3_page -->
       <class name="resolverAssessment.TestCases.test5_page">
-        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test5_page@13bda92]" name="setup" is-config="true" duration-ms="1754" started-at="2023-02-02T17:53:45Z" finished-at="2023-02-02T17:53:47Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test5_page@13bda92]" name="setup" is-config="true" duration-ms="1931" started-at="2023-02-02T18:02:11Z" finished-at="2023-02-02T18:02:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test5()[pri:0, instance:resolverAssessment.TestCases.test5_page@13bda92]" name="test5" duration-ms="7652" started-at="2023-02-02T17:53:47Z" finished-at="2023-02-02T17:53:54Z">
+        <test-method status="PASS" signature="test5()[pri:0, instance:resolverAssessment.TestCases.test5_page@13bda92]" name="test5" duration-ms="2729" started-at="2023-02-02T18:02:13Z" finished-at="2023-02-02T18:02:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test5 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test5_page@13bda92]" name="teardown" is-config="true" duration-ms="715" started-at="2023-02-02T17:53:54Z" finished-at="2023-02-02T17:53:55Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test5_page@13bda92]" name="teardown" is-config="true" duration-ms="830" started-at="2023-02-02T18:02:16Z" finished-at="2023-02-02T18:02:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- resolverAssessment.TestCases.test5_page -->
       <class name="resolverAssessment.TestCases.test4_page">
-        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test4_page@1d50002]" name="setup" is-config="true" duration-ms="1675" started-at="2023-02-02T17:53:42Z" finished-at="2023-02-02T17:53:44Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test4_page@1d50002]" name="setup" is-config="true" duration-ms="1895" started-at="2023-02-02T18:02:08Z" finished-at="2023-02-02T18:02:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test4()[pri:0, instance:resolverAssessment.TestCases.test4_page@1d50002]" name="test4" duration-ms="377" started-at="2023-02-02T17:53:44Z" finished-at="2023-02-02T17:53:44Z">
+        <test-method status="PASS" signature="test4()[pri:0, instance:resolverAssessment.TestCases.test4_page@1d50002]" name="test4" duration-ms="362" started-at="2023-02-02T18:02:10Z" finished-at="2023-02-02T18:02:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test4 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test4_page@1d50002]" name="teardown" is-config="true" duration-ms="716" started-at="2023-02-02T17:53:44Z" finished-at="2023-02-02T17:53:45Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test4_page@1d50002]" name="teardown" is-config="true" duration-ms="747" started-at="2023-02-02T18:02:10Z" finished-at="2023-02-02T18:02:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

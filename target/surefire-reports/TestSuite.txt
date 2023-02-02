@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 37.783 s <<< FAILURE! - in TestSuite
-resolverAssessment.TestCases.test3_page.test3  Time elapsed: 0.415 s  <<< FAILURE!
-java.lang.AssertionError:  Selected option is not option 3 expected [Option 3] but found []
-	at resolverAssessment.TestCases.test3_page.test3(test3_page.java:23)
-
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.091 s - in TestSuite

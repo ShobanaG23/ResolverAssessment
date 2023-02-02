@@ -1,15 +1,16 @@
-[INFO ] 02-02-2023 12:53:30.288 test1_page - Screenshot captured successfully
-[INFO ] 02-02-2023 12:53:35.700 test1_page - Screenshot captured successfully
-[INFO ] 02-02-2023 12:53:38.512 test2_page - Assertion done : List displayed contains 3 elements
-[INFO ] 02-02-2023 12:53:38.534 test2_page - Assertion done : Value in the second list item is: List Item 2
-[INFO ] 02-02-2023 12:53:38.576 test2_page - Assertion done : Badge value displayed is :6
-[INFO ] 02-02-2023 12:53:38.734 test2_page - Screenshot captured successfully
-[INFO ] 02-02-2023 12:53:41.414 test3_page - Assertion done : Both value matches, displayed name is as per the requiremnet
-[INFO ] 02-02-2023 12:53:44.196 test4_page - Assertion done : First button is enabled
-[INFO ] 02-02-2023 12:53:44.304 test4_page - Assertion done : Second button is disabled
-[INFO ] 02-02-2023 12:53:44.537 test4_page - Screenshot captured successfully
-[INFO ] 02-02-2023 12:53:54.462 test5_page - Assertion done : Success message matches as *You clicked a button!*
-[INFO ] 02-02-2023 12:53:54.478 test5_page - Assertion done : Button is disabled after clicking
-[INFO ] 02-02-2023 12:53:54.660 test5_page - Screenshot captured successfully
-[INFO ] 02-02-2023 12:54:02.597 test6_page - Assertion done: Value in the cell is Ventosanzap
-[INFO ] 02-02-2023 12:54:02.785 test6_page - Screenshot captured successfully
+[INFO ] 02-02-2023 01:01:55.072 test1_page - Screenshot captured successfully
+[INFO ] 02-02-2023 01:02:00.530 test1_page - Screenshot captured successfully
+[INFO ] 02-02-2023 01:02:04.149 test2_page - Assertion done : List displayed contains 3 elements
+[INFO ] 02-02-2023 01:02:04.172 test2_page - Assertion done : Value in the second list item is: List Item 2
+[INFO ] 02-02-2023 01:02:04.196 test2_page - Assertion done : Badge value displayed is :6
+[INFO ] 02-02-2023 01:02:04.375 test2_page - Screenshot captured successfully
+[INFO ] 02-02-2023 01:02:07.216 test3_page - Assertion done : Both value matches, displayed name is as per the requiremnet
+[INFO ] 02-02-2023 01:02:07.911 test3_page - Screenshot captured successfully
+[INFO ] 02-02-2023 01:02:10.600 test4_page - Assertion done : First button is enabled
+[INFO ] 02-02-2023 01:02:10.643 test4_page - Assertion done : Second button is disabled
+[INFO ] 02-02-2023 01:02:10.923 test4_page - Screenshot captured successfully
+[INFO ] 02-02-2023 01:02:16.106 test5_page - Assertion done : Success message matches as *You clicked a button!*
+[INFO ] 02-02-2023 01:02:16.131 test5_page - Assertion done : Button is disabled after clicking
+[INFO ] 02-02-2023 01:02:16.331 test5_page - Screenshot captured successfully
+[INFO ] 02-02-2023 01:02:24.759 test6_page - Assertion done: Value in the cell is Ventosanzap
+[INFO ] 02-02-2023 01:02:24.977 test6_page - Screenshot captured successfully

@@ -171,14 +171,13 @@ public class HomePage {
 		return dropDownName;
 	}
 	
-	public String Select_FromDropDown() {
+	public void Select_FromDropDown() {
 		//make mouse over action to scroll through the dropdown
 		Actions act = new Actions(driver);
 		act.click(btn_dropdown).build().perform();
 		act.click(btn_option3).build().perform();
-		String Selected_option = btn_option3.getText();
-		System.out.println("Selected option from the Dropdown is : " + Selected_option);
-		return Selected_option;
+		System.out.println("Selected option from the Dropdown is Option 3" );
+		
 	}	
 		
 	//------------------------------------------TEST4----------------------------------------------

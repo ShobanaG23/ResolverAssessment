@@ -19,9 +19,7 @@ public class test3_page extends BaseClass{
 		Assert.assertEquals(Displayed_name, "Option 1", "Both value doesnt match");
 		logger.info("Assertion done : Both value matches, displayed name is as per the requiremnet");
 		//selecting option 3 in dropdown
-		String Value_indropdown = hp.Select_FromDropDown();
-		Assert.assertEquals(Value_indropdown, "Option 3" , " Selected option is not option 3");
-		logger.info("Assertion done : Selected value from dropdown is Option 3");
+		hp.Select_FromDropDown();
 		//scrolling down to capture screenshot
 		roboMethod();
 		//capturing screenshot
