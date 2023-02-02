@@ -24,6 +24,6 @@ This repo was created to solve the Assessment test given by RESOLVER.
     3) Change the project location in "Run.bat" file.
     4) Clicking the "Run.bat" will start executing the tests. (Location : https://github.com/ShobanaG23/ResolverAssessment/blob/master/Run.bat )
     
-5) Dependencies and plugin that are need for the executing the project are listed in this link. 
+5) Dependencies and plugin that are need for the executing the project are listed in this link. https://github.com/ShobanaG23/ResolverAssessment/blob/master/pom.xml
 
 Note: "QE-index.html" is also present in the project location. https://github.com/ShobanaG23/ResolverAssessment/blob/master/QE-index.html
