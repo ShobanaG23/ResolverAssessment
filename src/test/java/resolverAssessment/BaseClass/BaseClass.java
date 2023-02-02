@@ -30,42 +30,39 @@ public class BaseClass {
 
 	@BeforeClass
 	public void setup() throws IOException {
-		
+		// to initialize the .html file from the location
 		Properties prop = new Properties();
 		FileInputStream fis = new FileInputStream("C:\\Users\\rarav\\eclipse-workspace\\resolverAssessment\\resources\\config.properties");
 		prop.load(fis);
-		
-		
+		//opening the chrome browser		
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
-		
-				
+		//getting the .html from the location
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
 		driver.get(prop.getProperty("URL"));
-		System.out.println("assessment page is openened successfully");	
+		System.out.println("Assessment page is openened successfully");	
 	}
 	
 	@AfterClass
 	public void teardown() {
-		
+		//close the browser
 		driver.quit();
-		System.out.println("assessment page is closed successfully");
+		System.out.println("Assessment page is closed successfully");
 	}
 	
-
 	public void captureSrceenshot(WebDriver driver, String testName) throws IOException {
+		//capturing the screenshot
 		TakesScreenshot ts = (TakesScreenshot) driver;
 		File source =  ts.getScreenshotAs(OutputType.FILE);
 		File target = new File(System.getProperty("user.dir")+"\\screenshots\\"+testName+".png");
 		//to copy and paste
-		
 		FileUtils.copyFile(source, target);
-	logger.info("screenshot captured successfully");
-		
-}
+		logger.info("Screenshot captured successfully");
+	}
 	
 	public void roboMethod() throws AWTException {
+		//scroll down the page
 		Robot rob = new Robot();
 		rob.keyPress(KeyEvent.VK_PAGE_DOWN);
 		rob.keyRelease(KeyEvent.VK_PAGE_DOWN);

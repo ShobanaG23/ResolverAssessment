@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="33.926" tests="6" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="37.783" tests="6" errors="0" skipped="0" failures="1">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -20,7 +20,7 @@
     <property name="user.country" value="CA"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_333\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\rarav\AppData\Local\Temp\surefire8459827747861565864\surefirebooter1182829907380807706.jar C:\Users\rarav\AppData\Local\Temp\surefire8459827747861565864 2023-02-01T22-12-02_068-jvmRun1 surefire8975322092461379469tmp surefire_01971725946830406143tmp"/>
+    <property name="sun.java.command" value="C:\Users\rarav\AppData\Local\Temp\surefire8779402147365361178\surefirebooter2063374328428115148.jar C:\Users\rarav\AppData\Local\Temp\surefire8779402147365361178 2023-02-02T12-53-22_969-jvmRun1 surefire6494895068973196185tmp surefire_01996181670528424311tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\rarav\eclipse-workspace\resolverAssessment\target\test-classes;C:\Users\rarav\eclipse-workspace\resolverAssessment\target\classes;C:\Users\rarav\.m2\repository\io\github\bonigarcia\webdrivermanager\4.4.0\webdrivermanager-4.4.0.jar;C:\Users\rarav\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\rarav\.m2\repository\commons-io\commons-io\2.8.0\commons-io-2.8.0.jar;C:\Users\rarav\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\rarav\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\rarav\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.3\httpclient5-5.0.3.jar;C:\Users\rarav\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.2\httpcore5-5.0.2.jar;C:\Users\rarav\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.2\httpcore5-h2-5.0.2.jar;C:\Users\rarav\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\rarav\.m2\repository\org\rauschig\jarchivelib\1.1.0\jarchivelib-1.1.0.jar;C:\Users\rarav\.m2\repository\org\apache\commons\commons-compress\1.20\commons-compress-1.20.jar;C:\Users\rarav\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\rarav\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\rarav\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\rarav\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\rarav\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\rarav\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\rarav\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\rarav\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\rarav\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\rarav\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\rarav\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\rarav\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\rarav\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\rarav\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\rarav\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\rarav\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\rarav\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\rarav\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\rarav\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\rarav\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\rarav\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\rarav\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\rarav\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\rarav\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\rarav\.m2\repository\org\apache\logging\log4j\log4j-core\2.14.0\log4j-core-2.14.0.jar;C:\Users\rarav\.m2\repository\org\apache\logging\log4j\log4j-api\2.14.0\log4j-api-2.14.0.jar;C:\Users\rarav\.m2\repository\com\aventstack\extentreports\4.0.9\extentreports-4.0.9.jar;C:\Users\rarav\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\rarav\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\rarav\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;C:\Users\rarav\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\rarav\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\rarav\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\rarav\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\rarav\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\rarav"/>
@@ -33,7 +33,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\rarav\AppData\Local\Temp\surefire8459827747861565864\surefirebooter1182829907380807706.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\rarav\AppData\Local\Temp\surefire8779402147365361178\surefirebooter2063374328428115148.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jdk1.8.0_333\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_333\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_333\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_333\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_333\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_333\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_333\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_333\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
@@ -62,111 +62,113 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="test1" classname="resolverAssessment.TestCases.test1_page" time="6.025">
+  <testcase name="test1" classname="resolverAssessment.TestCases.test1_page" time="5.901">
     <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
-assessment page is openened successfully
+Assessment page is openened successfully
 ---------------verifying_elements-----------------------
 Sign_in_field is displayed on the page
 Password_field is displayed on the page
 Sign_in_button is displayed on the page
 -----------------Filling_login-------------------------
-[INFO ] 01-02-2023 10:12:07.731 test1_page - screenshot captured successfully
-email and password entered is : shobana.g@gmail.com and test123
-[INFO ] 01-02-2023 10:12:13.184 test1_page - screenshot captured successfully
-clicked on sign in button
+[INFO ] 02-02-2023 12:53:30.288 test1_page - Screenshot captured successfully
+Email and Password entered as : shobana.g@gmail.com and test123
+[INFO ] 02-02-2023 12:53:35.700 test1_page - Screenshot captured successfully
+Clicked on sign in button
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 64229
+Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 12343
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Feb 01, 2023 10:12:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Feb 02, 2023 12:53:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="test2" classname="resolverAssessment.TestCases.test2_page" time="0.401">
-    <system-out><![CDATA[assessment page is closed successfully
-assessment page is openened successfully
+  <testcase name="test2" classname="resolverAssessment.TestCases.test2_page" time="0.355">
+    <system-out><![CDATA[Assessment page is closed successfully
+Assessment page is openened successfully
 ----------verifying_list_elements-------------------
-number of elements in the list is : 3
-Name of the elemnts on the list are:
+Number of elements in the list is : 3
+Name of the elements in the list are: 
 List Item 1 3
 List Item 2 6
 List Item 3 9
-[INFO ] 01-02-2023 10:12:16.439 test2_page - Assertion done : List displayed contains 3 elements
+[INFO ] 02-02-2023 12:53:38.512 test2_page - Assertion done : List displayed contains 3 elements
 -------------verifying_list_item_value----------------
-value in the list_item 2 is : List Item 2
-[INFO ] 01-02-2023 10:12:16.457 test2_page - Assertion done : value in the second list item is: List Item 2
+Value in the list_item 2 is : List Item 2
+[INFO ] 02-02-2023 12:53:38.534 test2_page - Assertion done : Value in the second list item is: List Item 2
 -------------------verifying_badge_value---------------
 Badge value in the second_item is : 6
-[INFO ] 01-02-2023 10:12:16.482 test2_page - Assertion done  : Badge value displayed is :6
-[INFO ] 01-02-2023 10:12:16.665 test2_page - screenshot captured successfully
+[INFO ] 02-02-2023 12:53:38.576 test2_page - Assertion done : Badge value displayed is :6
+[INFO ] 02-02-2023 12:53:38.734 test2_page - Screenshot captured successfully
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 51453
+    <system-err><![CDATA[Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 16405
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Feb 01, 2023 10:12:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Feb 02, 2023 12:53:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="test3" classname="resolverAssessment.TestCases.test3_page" time="0.721">
-    <system-out><![CDATA[assessment page is closed successfully
-assessment page is openened successfully
+  <testcase name="test3" classname="resolverAssessment.TestCases.test3_page" time="0.415">
+    <failure message=" Selected option is not option 3 expected [Option 3] but found []" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError:  Selected option is not option 3 expected [Option 3] but found []
+	at resolverAssessment.TestCases.test3_page.test3(test3_page.java:23)
+]]></failure>
+    <system-out><![CDATA[Assessment page is closed successfully
+Assessment page is openened successfully
 DropDown name dislayed in test3 is : Option 1
-[INFO ] 01-02-2023 10:12:19.276 test3_page - Assertion done : both value matches, displayed name is as per the requiremnet
-selected option from the Dropdown is Option 3
-[INFO ] 01-02-2023 10:12:19.971 test3_page - screenshot captured successfully
+[INFO ] 02-02-2023 12:53:41.414 test3_page - Assertion done : Both value matches, displayed name is as per the requiremnet
+Selected option from the Dropdown is : 
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 33817
+    <system-err><![CDATA[Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 32074
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Feb 01, 2023 10:12:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Feb 02, 2023 12:53:40 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="test4" classname="resolverAssessment.TestCases.test4_page" time="0.311">
-    <system-out><![CDATA[assessment page is closed successfully
-assessment page is openened successfully
-first button is enabled
-[INFO ] 01-02-2023 10:12:22.792 test4_page - Assertion done : First button is enabled
+  <testcase name="test4" classname="resolverAssessment.TestCases.test4_page" time="0.36">
+    <system-out><![CDATA[Assessment page is closed successfully
+Assessment page is openened successfully
+First button is enabled
+[INFO ] 02-02-2023 12:53:44.196 test4_page - Assertion done : First button is enabled
 Second button is disabled
-[INFO ] 01-02-2023 10:12:22.839 test4_page - Assertion done : Second button is disabled
-[INFO ] 01-02-2023 10:12:23.084 test4_page - screenshot captured successfully
+[INFO ] 02-02-2023 12:53:44.304 test4_page - Assertion done : Second button is disabled
+[INFO ] 02-02-2023 12:53:44.537 test4_page - Screenshot captured successfully
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 59054
+    <system-err><![CDATA[Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 31340
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Feb 01, 2023 10:12:21 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Feb 02, 2023 12:53:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="test5" classname="resolverAssessment.TestCases.test5_page" time="1.563">
-    <system-out><![CDATA[assessment page is closed successfully
-assessment page is openened successfully
+  <testcase name="test5" classname="resolverAssessment.TestCases.test5_page" time="7.646">
+    <system-out><![CDATA[Assessment page is closed successfully
+Assessment page is openened successfully
 Button in test5 is clicked
 Alert message displayed after clicking the button is : You clicked a button!
-[INFO ] 01-02-2023 10:12:27.214 test5_page - Assertion done: Success message matches as *You clicked a button!*
-the button is disabled after clicking
-[INFO ] 01-02-2023 10:12:27.231 test5_page - Assertion done : Button is disabled after clicking
-[INFO ] 01-02-2023 10:12:27.444 test5_page - screenshot captured successfully
+[INFO ] 02-02-2023 12:53:54.462 test5_page - Assertion done : Success message matches as *You clicked a button!*
+The button is disabled after clicking
+[INFO ] 02-02-2023 12:53:54.478 test5_page - Assertion done : Button is disabled after clicking
+[INFO ] 02-02-2023 12:53:54.660 test5_page - Screenshot captured successfully
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 34006
+    <system-err><![CDATA[Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 29196
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Feb 01, 2023 10:12:25 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Feb 02, 2023 12:53:46 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
-  <testcase name="test6" classname="resolverAssessment.TestCases.test6_page" time="5.574">
-    <system-out><![CDATA[assessment page is closed successfully
-assessment page is openened successfully
-values in the table: 
+  <testcase name="test6" classname="resolverAssessment.TestCases.test6_page" time="5.513">
+    <system-out><![CDATA[Assessment page is closed successfully
+Assessment page is openened successfully
+Values in the table: 
 Brietta
 Tinmouth
 Cardguard
@@ -176,15 +178,15 @@ It
 Thadeus
 Posselt
 Ventosanzap
-value dispplayed in cordinate [2][2] is : Ventosanzap
-[INFO ] 01-02-2023 10:12:35.425 test6_page - Assertion done: value in the cell is Ventosanzap
-[INFO ] 01-02-2023 10:12:35.605 test6_page - screenshot captured successfully
+Value dispplayed in cordinate [2][2] is : Ventosanzap
+[INFO ] 02-02-2023 12:54:02.597 test6_page - Assertion done: Value in the cell is Ventosanzap
+[INFO ] 02-02-2023 12:54:02.785 test6_page - Screenshot captured successfully
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 10116
+    <system-err><![CDATA[Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 17540
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Feb 01, 2023 10:12:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Feb 02, 2023 12:53:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
