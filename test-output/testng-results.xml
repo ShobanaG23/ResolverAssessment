@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FunctionSuite" duration-ms="37705" started-at="2023-02-02T02:56:16Z" finished-at="2023-02-02T02:56:54Z">
+    <groups>
+    </groups>
+    <test name="ResolverTest" duration-ms="37705" started-at="2023-02-02T02:56:16Z" finished-at="2023-02-02T02:56:54Z">
+      <class name="resolverAssessment.TestCases.test1_page">
+        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test1_page@21330f]" name="setup" is-config="true" duration-ms="2347" started-at="2023-02-02T02:56:16Z" finished-at="2023-02-02T02:56:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:resolverAssessment.TestCases.test1_page@21330f]" name="test1" duration-ms="6101" started-at="2023-02-02T02:56:18Z" finished-at="2023-02-02T02:56:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test1_page@21330f]" name="teardown" is-config="true" duration-ms="749" started-at="2023-02-02T02:56:24Z" finished-at="2023-02-02T02:56:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- resolverAssessment.TestCases.test1_page -->
+      <class name="resolverAssessment.TestCases.test2_page">
+        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test2_page@f43c82]" name="setup" is-config="true" duration-ms="1991" started-at="2023-02-02T02:56:25Z" finished-at="2023-02-02T02:56:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:resolverAssessment.TestCases.test2_page@f43c82]" name="test2" duration-ms="392" started-at="2023-02-02T02:56:27Z" finished-at="2023-02-02T02:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test2_page@f43c82]" name="teardown" is-config="true" duration-ms="688" started-at="2023-02-02T02:56:28Z" finished-at="2023-02-02T02:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- resolverAssessment.TestCases.test2_page -->
+      <class name="resolverAssessment.TestCases.test6_page">
+        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test6_page@1857fe2]" name="setup" is-config="true" duration-ms="1735" started-at="2023-02-02T02:56:46Z" finished-at="2023-02-02T02:56:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:resolverAssessment.TestCases.test6_page@1857fe2]" name="test6" duration-ms="5594" started-at="2023-02-02T02:56:47Z" finished-at="2023-02-02T02:56:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test6_page@1857fe2]" name="teardown" is-config="true" duration-ms="707" started-at="2023-02-02T02:56:53Z" finished-at="2023-02-02T02:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- resolverAssessment.TestCases.test6_page -->
+      <class name="resolverAssessment.TestCases.test5_page">
+        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test5_page@b2475a]" name="setup" is-config="true" duration-ms="1720" started-at="2023-02-02T02:56:34Z" finished-at="2023-02-02T02:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:resolverAssessment.TestCases.test5_page@b2475a]" name="test5" duration-ms="8792" started-at="2023-02-02T02:56:36Z" finished-at="2023-02-02T02:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test5_page@b2475a]" name="teardown" is-config="true" duration-ms="772" started-at="2023-02-02T02:56:45Z" finished-at="2023-02-02T02:56:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- resolverAssessment.TestCases.test5_page -->
+      <class name="resolverAssessment.TestCases.test3_page">
+        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test3_page@1b6b9cd]" name="setup" is-config="true" duration-ms="1717" started-at="2023-02-02T02:56:28Z" finished-at="2023-02-02T02:56:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:resolverAssessment.TestCases.test3_page@1b6b9cd]" name="test3" duration-ms="750" started-at="2023-02-02T02:56:30Z" finished-at="2023-02-02T02:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test3_page@1b6b9cd]" name="teardown" is-config="true" duration-ms="703" started-at="2023-02-02T02:56:31Z" finished-at="2023-02-02T02:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- resolverAssessment.TestCases.test3_page -->
+      <class name="resolverAssessment.TestCases.test4_page">
+        <test-method status="PASS" signature="setup()[pri:0, instance:resolverAssessment.TestCases.test4_page@10ab13f]" name="setup" is-config="true" duration-ms="1676" started-at="2023-02-02T02:56:31Z" finished-at="2023-02-02T02:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:resolverAssessment.TestCases.test4_page@10ab13f]" name="test4" duration-ms="356" started-at="2023-02-02T02:56:33Z" finished-at="2023-02-02T02:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:resolverAssessment.TestCases.test4_page@10ab13f]" name="teardown" is-config="true" duration-ms="736" started-at="2023-02-02T02:56:34Z" finished-at="2023-02-02T02:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- resolverAssessment.TestCases.test4_page -->
+    </test> <!-- ResolverTest -->
+  </suite> <!-- FunctionSuite -->
+</testng-results>

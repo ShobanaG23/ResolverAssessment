@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FunctionSuite">
+
+<listeners>
+<listener class-name="resolverAssessment.utilities.ExtentReportManager"/>
+</listeners>
+
+  <test thread-count="5" name="ResolverTest">
+    <classes>
+         
+      <class name="resolverAssessment.TestCases.test1_page"/>
+      <class name="resolverAssessment.TestCases.test2_page"/>
+      <class name="resolverAssessment.TestCases.test3_page"/>
+      <class name="resolverAssessment.TestCases.test4_page"/>
+      <class name="resolverAssessment.TestCases.test5_page"/>
+      <class name="resolverAssessment.TestCases.test6_page"/>
+       
+    </classes>
+  </test> <!-- ResolverTest -->
+</suite> <!-- FunctionSuite -->

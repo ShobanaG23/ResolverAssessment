@@ -1,0 +1,80 @@
+[INFO ] 01-02-2023 09:56:19.390 test1_page - screenshots captured succesfully
+[INFO ] 01-02-2023 09:56:24.834 test1_page - screenshots captured succesfully
+[INFO ] 01-02-2023 09:56:27.908 test2_page - Assertion done : List displayed contains 3 elements
+[INFO ] 01-02-2023 09:56:27.936 test2_page - Assertion done : value in the second list item is: List Item 2
+[INFO ] 01-02-2023 09:56:27.970 test2_page - Assertion done  : Badge value displayed is :6
+[INFO ] 01-02-2023 09:56:28.133 test2_page - screenshots captured succesfully
+[INFO ] 01-02-2023 09:56:30.578 test3_page - Assertion done : both value matches, displayed name is as per the requiremnet
+[INFO ] 01-02-2023 09:56:31.290 test3_page - screenshots captured succesfully
+[INFO ] 01-02-2023 09:56:33.719 test4_page - Assertion done : First button is enabled
+[INFO ] 01-02-2023 09:56:33.766 test4_page - Assertion done : Second button is disabled
+[INFO ] 01-02-2023 09:56:34.027 test4_page - screenshots captured succesfully
+[INFO ] 01-02-2023 09:56:45.053 test5_page - Assertion done: Success message matches as *You clicked a button!*
+[INFO ] 01-02-2023 09:56:45.072 test5_page - Assertion done : Button is disabled after clicking
+[INFO ] 01-02-2023 09:56:45.278 test5_page - screenshots captured succesfully
+[INFO ] 01-02-2023 09:56:53.174 test6_page - Assertion done: value in the cell is Ventosanzap
+[INFO ] 01-02-2023 09:56:53.381 test6_page - screenshots captured succesfully
+[INFO ] 01-02-2023 10:02:29.748 test1_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:02:35.751 test1_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:02:37.412 test1_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:02:39.601 test2_page - Assertion done : List displayed contains 3 elements
+[INFO ] 01-02-2023 10:02:39.629 test2_page - Assertion done : value in the second list item is: List Item 2
+[INFO ] 01-02-2023 10:02:39.670 test2_page - Assertion done  : Badge value displayed is :6
+[INFO ] 01-02-2023 10:02:39.865 test2_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:02:43.106 test3_page - Assertion done : both value matches, displayed name is as per the requiremnet
+[INFO ] 01-02-2023 10:02:43.150 test1_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:02:44.259 test3_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:02:47.499 test2_page - Assertion done : List displayed contains 3 elements
+[INFO ] 01-02-2023 10:02:47.542 test2_page - Assertion done : value in the second list item is: List Item 2
+[INFO ] 01-02-2023 10:02:47.585 test2_page - Assertion done  : Badge value displayed is :6
+[INFO ] 01-02-2023 10:02:47.794 test4_page - Assertion done : First button is enabled
+[INFO ] 01-02-2023 10:02:47.839 test4_page - Assertion done : Second button is disabled
+[INFO ] 01-02-2023 10:02:47.903 test2_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:02:48.195 test4_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:02:51.762 test3_page - Assertion done : both value matches, displayed name is as per the requiremnet
+[INFO ] 01-02-2023 10:02:52.526 test3_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:02:55.197 test4_page - Assertion done : First button is enabled
+[INFO ] 01-02-2023 10:02:55.243 test4_page - Assertion done : Second button is disabled
+[INFO ] 01-02-2023 10:02:55.512 test4_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:02:56.438 test5_page - Assertion done: Success message matches as *You clicked a button!*
+[INFO ] 01-02-2023 10:02:56.463 test5_page - Assertion done : Button is disabled after clicking
+[INFO ] 01-02-2023 10:02:56.687 test5_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:03:02.609 test5_page - Assertion done: Success message matches as *You clicked a button!*
+[INFO ] 01-02-2023 10:03:02.626 test5_page - Assertion done : Button is disabled after clicking
+[INFO ] 01-02-2023 10:03:02.839 test5_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:03:04.890 test6_page - Assertion done: value in the cell is Ventosanzap
+[INFO ] 01-02-2023 10:03:05.213 test6_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:03:11.081 test6_page - Assertion done: value in the cell is Ventosanzap
+[INFO ] 01-02-2023 10:03:11.264 test6_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:08:40.619 test1_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:08:46.203 test1_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:08:49.495 test2_page - Assertion done : List displayed contains 3 elements
+[INFO ] 01-02-2023 10:08:49.514 test2_page - Assertion done : value in the second list item is: List Item 2
+[INFO ] 01-02-2023 10:08:49.538 test2_page - Assertion done  : Badge value displayed is :6
+[INFO ] 01-02-2023 10:08:49.725 test2_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:08:52.344 test3_page - Assertion done : both value matches, displayed name is as per the requiremnet
+[INFO ] 01-02-2023 10:08:53.110 test3_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:08:55.841 test4_page - Assertion done : First button is enabled
+[INFO ] 01-02-2023 10:08:55.893 test4_page - Assertion done : Second button is disabled
+[INFO ] 01-02-2023 10:08:56.243 test4_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:09:03.232 test5_page - Assertion done: Success message matches as *You clicked a button!*
+[INFO ] 01-02-2023 10:09:03.260 test5_page - Assertion done : Button is disabled after clicking
+[INFO ] 01-02-2023 10:09:03.462 test5_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:09:11.610 test6_page - Assertion done: value in the cell is Ventosanzap
+[INFO ] 01-02-2023 10:09:11.851 test6_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:12:07.731 test1_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:12:13.184 test1_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:12:16.439 test2_page - Assertion done : List displayed contains 3 elements
+[INFO ] 01-02-2023 10:12:16.457 test2_page - Assertion done : value in the second list item is: List Item 2
+[INFO ] 01-02-2023 10:12:16.482 test2_page - Assertion done  : Badge value displayed is :6
+[INFO ] 01-02-2023 10:12:16.665 test2_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:12:19.276 test3_page - Assertion done : both value matches, displayed name is as per the requiremnet
+[INFO ] 01-02-2023 10:12:19.971 test3_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:12:22.792 test4_page - Assertion done : First button is enabled
+[INFO ] 01-02-2023 10:12:22.839 test4_page - Assertion done : Second button is disabled
+[INFO ] 01-02-2023 10:12:23.084 test4_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:12:27.214 test5_page - Assertion done: Success message matches as *You clicked a button!*
+[INFO ] 01-02-2023 10:12:27.231 test5_page - Assertion done : Button is disabled after clicking
+[INFO ] 01-02-2023 10:12:27.444 test5_page - screenshot captured successfully
+[INFO ] 01-02-2023 10:12:35.425 test6_page - Assertion done: value in the cell is Ventosanzap
+[INFO ] 01-02-2023 10:12:35.605 test6_page - screenshot captured successfully
