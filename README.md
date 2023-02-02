@@ -1,8 +1,8 @@
 # ResolverAssessment
-This repo is used for saving all files related to assessment test given from RESOLVER.
+This repo was created to solve the Assessment test given by RESOLVER.
 
 1) First part is the scripts needed for automating the assessment page.
-  "src/test/java/resolverAssessment" has the paxkages for the projects. https://github.com/ShobanaG23/ResolverAssessment/tree/master/src/test/java/resolverAssessment
+  "src/test/java/resolverAssessment" has the packages for the projects. https://github.com/ShobanaG23/ResolverAssessment/tree/master/src/test/java/resolverAssessment
    1. PageObjects- This Package contains all the elemnts locators and its methods.
    2. TestCases- This Package contains all the test case for given 6 scenarios.
    3. BaseClass - This Package is used for common methods like setup of the page to test, teardown of the page to test and capturing screenshot.
