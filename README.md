@@ -20,7 +20,7 @@ This repo was created to solve the Assessment test given by RESOLVER.
 
 4) If you want to run it in your local machine, please follow the below steps:
     1) Install Maven
-    2) In the "config.properties" change the location of the "QE-index.html" file that is in your local. 
+    2) In the "config.properties" change the location of the "QE-index.html" file that is in your local. https://github.com/ShobanaG23/ResolverAssessment/blob/master/resources/config.properties
     3) Change the project location in "Run.bat" file.
     4) Clicking the "Run.bat" will start executing the tests. (Location : https://github.com/ShobanaG23/ResolverAssessment/blob/master/Run.bat )
     
